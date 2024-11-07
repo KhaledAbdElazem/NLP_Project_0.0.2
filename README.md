@@ -98,4 +98,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [NLTK](https://www.nltk.org/)
 - [scikit-learn](https://scikit-learn.org/)
 - [PyPDF2](https://pythonhosted.org/PyPDF2/)
+<<<<<<< HEAD
 - [Colorama](https://pypi.org/project/colorama/)
+=======
+- [Colorama](https://pypi.org/project/colorama/)
+>>>>>>> 63da3d6b19836d772a1b0256e8c44d5e24e71f0e
